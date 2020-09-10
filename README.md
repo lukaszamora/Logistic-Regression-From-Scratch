@@ -34,9 +34,6 @@ To get a sense of the data before implementing any sort of regression analysis, 
 
 ![](images/fig3.png)
 
-One flower species is linearly separable from the other two, but the other two are not linearly separable from each other.
-
-
 ### Implementation
 
 ```
